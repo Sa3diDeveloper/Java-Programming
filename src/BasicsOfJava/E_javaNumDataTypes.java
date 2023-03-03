@@ -1,6 +1,6 @@
 package BasicsOfJava;
 
-public class javaNumDataTypes {
+public class E_javaNumDataTypes {
     public static  void  main(String args[]){
         byte myNum = 100;
         int myInt=200;

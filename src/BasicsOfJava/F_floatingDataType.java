@@ -1,6 +1,6 @@
 package BasicsOfJava;
 
-public class floatingDataType {
+public class F_floatingDataType {
     public  static  void  main(String args[]){
         double myNum = 19.99d;
         System.out.println(myNum);
