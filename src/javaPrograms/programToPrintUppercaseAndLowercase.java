@@ -4,7 +4,7 @@ public class programToPrintUppercaseAndLowercase {
     public static void main(String args[])
     {
         char ch;
-
+  
         //printing uppercase alphabets
         System.out.println("Uppercase alphabets:");
         for(ch='A';ch<='Z';ch++)
