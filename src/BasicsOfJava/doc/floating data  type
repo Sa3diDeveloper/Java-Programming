@@ -1,5 +1,7 @@
 Floating Point Types
-You should use a floating point type whenever you need a number with a decimal, such as 9.99 or 3.14515.
+You should use a floating point type whenever you need a number with a decimal,
+such as 9.99 or 3.14515.
 
-The float and double data types can store fractional numbers. Note that you should end the value with an
+The float and double data types can store fractional numbers. Note that you should end the 
+value with an
 "f" for floats and "d" for doubles:
