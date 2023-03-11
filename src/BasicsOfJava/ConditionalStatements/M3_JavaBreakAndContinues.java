@@ -1,7 +1,8 @@
-package BasicsOfJava;
+package BasicsOfJava.ConditionalStatements;
 
 public class M3_JavaBreakAndContinues {
     public  static  void  main(String args[]){
+        //
         int i = 0;
         while (i < 10) {
             if (i == 4) {

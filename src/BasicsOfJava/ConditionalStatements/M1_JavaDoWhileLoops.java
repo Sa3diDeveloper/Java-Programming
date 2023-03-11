@@ -1,4 +1,4 @@
-package BasicsOfJava;
+package BasicsOfJava.ConditionalStatements;
 
 public class M1_JavaDoWhileLoops {
     public  static void main(String args[]){
