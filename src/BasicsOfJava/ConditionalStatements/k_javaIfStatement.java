@@ -1,4 +1,4 @@
-package BasicsOfJava;
+package BasicsOfJava.ConditionalStatements;
 /*Java Conditions and If Statements
 You already know that Java supports the usual logical conditions from mathematics:
 

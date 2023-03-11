@@ -1,4 +1,4 @@
-package BasicsOfJava;
+package BasicsOfJava.ConditionalStatements;
 
 public class M0_JavaForLoops {
     public  static void main(String args[]){

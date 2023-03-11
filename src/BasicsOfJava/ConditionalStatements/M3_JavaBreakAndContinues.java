@@ -1,4 +1,4 @@
-package BasicsOfJava;
+package BasicsOfJava.ConditionalStatements;
 
 public class M3_JavaBreakAndContinues {
     public  static  void  main(String args[]){

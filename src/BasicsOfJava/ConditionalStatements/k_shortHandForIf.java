@@ -1,4 +1,4 @@
-package BasicsOfJava;
+package BasicsOfJava.ConditionalStatements;
 /*
 Short Hand If...Else
 There is also a shorthand if else, which is known as the ternary operator because it consists of three operands.

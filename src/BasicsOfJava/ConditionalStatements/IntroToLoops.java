@@ -1,4 +1,4 @@
-package ConditionalStatements;
+package BasicsOfJava.ConditionalStatements;
 
 import java.util.*;
 
