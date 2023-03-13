@@ -3,7 +3,7 @@
  * Given an integer N, print all the prime numbers that lie in the range 2 to N (both inclusive).
 Print the prime numbers in different lines.
  */
-package Operators_and_For_Loop;
+package javaPrograms;
 
 import java.util.Scanner;
 
