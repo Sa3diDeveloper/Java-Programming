@@ -23,7 +23,7 @@ public class PrimeNumber {
 		 boolean ansPrime=isPrime(n);
 		 if(ansPrime==true)
 		 {
-			 System.out.println("Prime No");
+			 System.out.println("Prime ");
 			 System.out.println(ansPrime);
 		 }else
 		 {
