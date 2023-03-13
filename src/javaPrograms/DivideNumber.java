@@ -1,4 +1,4 @@
-package Function_Variables_and_There_Scope;
+package javaPrograms;
 import java.lang.Integer;
 import java.util.Scanner;
 
